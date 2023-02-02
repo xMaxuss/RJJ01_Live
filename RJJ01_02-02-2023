@@ -211,8 +211,8 @@ variables
 		29: Each_Player_Array
 		30: Titles_And_Outlines
 		31: Lijiang_Teleports
-        32: Jail_List
-        33: Jail_Helper
+        	32: Jail_List
+        	33: Jail_Helper
 		34: Blue_Mashup_Loop
 		35: Blue_Mashup
 		36: Green_Mashup_Loop
@@ -270,9 +270,9 @@ variables
 		46: Player_Title_And_Outline
 		47: Player_Nameplates
 		48: Is_Title_Given
-        49: Index_Help
-        50: Non_Moderator_Menu
-        51: Non_Moderator_Menu_Description
+        	49: Index_Help
+        	50: Non_Moderator_Menu
+        	51: Non_Moderator_Menu_Description
 }
 
 subroutines
@@ -286,7 +286,7 @@ subroutines
 	6: Drawing_Objects_Preview
 	7: Give_Custom_Nameplate
 	8: Give_Custom_Outline
-    9: Jail_Leaver
+    	9: Jail_Leaver
 }
 
 rule("Anti-Crash-ON")
